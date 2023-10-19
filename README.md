@@ -28,3 +28,6 @@ This project is licensed under the MIT License, which allows you to use and modi
 [Asif Ali]
 
 Feel free to explore this repository, and thank you for using the Student-Management-CLI program to simplify your student data management tasks!
+
+## OUTPUT INTERFACE
+![OUTPUT](https://github.com/AsifAli78/Student-Management-CLI/assets/148493765/65e69107-409f-4e62-862a-7f5e307dba7b)
